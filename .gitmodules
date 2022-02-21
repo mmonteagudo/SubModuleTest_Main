@@ -1,3 +1,6 @@
 [submodule "Sub01"]
 	path = Sub01
 	url = https://github.com/mmonteagudo/SubModuleTest_Sub01
+	branch = main
+[submodule "C:/Program Files/Git/"]
+	branch = main
