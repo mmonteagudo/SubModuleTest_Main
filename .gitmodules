@@ -1,0 +1,3 @@
+[submodule "Sub01"]
+	path = Sub01
+	url = https://github.com/mmonteagudo/SubModuleTest_Sub01
